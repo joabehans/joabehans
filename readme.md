@@ -1,10 +1,8 @@
-# BOT ZDG
-
-Hi, this is the implementation example of <a href="https://github.com/pedroslopez/whatsapp-web.js">whatsapp-web.js</a>
+# BOT JHS
 
 Watch the tutorials:
 
-- <a href="https://www.youtube.com/channel/UCrPbAoQKz42Gm0mLdWatAEA">Zap das Galáxias</a>
+- <a href="https://www.youtube.com/channel/UCrPbAoQKz42Gm0mLdWatAEA">JHS SOLUCOES DIGITAIS</a>
 
 
 ### How to use?
@@ -19,6 +17,4 @@ Watch the tutorials:
 
 
 ## Support Me
-
-You can make a support for this work by <a href="https://zapdasgalaxias.com.br">Pedrinho da NASA</a>. Thanks
-"# bot-zdg" 
+ 
